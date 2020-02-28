@@ -7,7 +7,9 @@
 3. [Visualizing CNN](https://arxiv.org/pdf/1311.2901.pdf, "Matt Zieler's Paper")
 
 
+
 ## Books
 
 1. [Design of Everyday Things](https://amzn.to/2VvEAPT, "Don Norman")
 2. [The Mythical Man Month](https://amzn.to/32sFGgF, "Fred Brooks")
+3. [The Inmates Are Running The Asylum](https://amzn.to/2Pwxc2W, "Alan Cooper" )
